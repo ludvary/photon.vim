@@ -183,7 +183,7 @@ if has('nvim')
     let g:terminal_color_15 = '#b2b2b2'
 else
     let g:terminal_ansi_colors = [
-            \ '#3a3a3a',
+            \ '#0B0B0B',
             \ '#ac2c2c',
             \ '#4e9a06',
             \ '#c4a000',
