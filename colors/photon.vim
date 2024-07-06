@@ -165,7 +165,7 @@ hi! link htmlEndTag htmlTag
 hi! link gitcommitSummary Title
 
 if has('nvim')
-    let g:terminal_color_0 = '#3a3a3a'
+    let g:terminal_color_0 = '#0B0B0B'
     let g:terminal_color_1 = '#ac2c2c'
     let g:terminal_color_2 = '#4e9a06'
     let g:terminal_color_3 = '#c4a000'
